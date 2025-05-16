@@ -1,4 +1,4 @@
-⭐Hello! ⭐ My name is **Nguyễn Hoàng Vinh**, a Vietnamese student. I have developed this **powerful DDoS testing tool** to help users perform load testing and understand network resilience better. This tool features a sleek, cyberpunk-themed GUI built with CustomTkinter, supports customizable HTTP methods, headers, parameters, and data, and allows you to specify the number of requests and concurrent threads for testing.
+⭐Hello!⭐ My name is **Nguyễn Hoàng Vinh**, a Vietnamese student. I have developed this **powerful DDoS testing tool** to help users perform load testing and understand network resilience better. This tool features a sleek, cyberpunk-themed GUI built with CustomTkinter, supports customizable HTTP methods, headers, parameters, and data, and allows you to specify the number of requests and concurrent threads for testing.
 
 I created this tool to provide an easy-to-use yet effective way to simulate traffic for educational and testing purposes. Feel free to explore, contribute, and use it responsibly.
 
