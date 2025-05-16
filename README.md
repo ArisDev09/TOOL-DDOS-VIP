@@ -2,7 +2,7 @@
 
 I created this tool to provide an easy-to-use yet effective way to simulate traffic for educational and testing purposes. Feel free to explore, contribute, and use it responsibly.
 
-![Chưa có tên](https://github.com/user-attachments/assets/26e63d68-62ab-46ce-b7c8-9b4cbcc416ae)# TOOL-DDOS-VIP
+![Chưa có tên](https://github.com/user-attachments/assets/26e63d68-62ab-46ce-b7c8-9b4cbcc416ae) TOOL-DDOS-VIP
 This tool is a customizable DDoS testing application designed to simulate high traffic requests to target URLs for stress testing purposes. Built with a sleek Cyberpunk-themed GUI using CustomTkinter, it supports multiple HTTP methods (GET, POST, PUT, DELETE, HEAD) and flexible configurations for headers, parameters, and data payloads.
 
 Key features include:
