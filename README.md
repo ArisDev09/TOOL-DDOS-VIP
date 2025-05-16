@@ -1,7 +1,7 @@
-Introduction
-Hello! My name is Nguyễn Hoàng Vinh, a Vietnamese student. I have developed this powerful DDoS testing tool to help users perform load testing and understand network resilience better. This tool features a sleek, cyberpunk-themed GUI built with CustomTkinter, supports customizable HTTP methods, headers, parameters, and data, and allows you to specify the number of requests and concurrent threads for testing.
+⭐Hello! ⭐ My name is **Nguyễn Hoàng Vinh**, a Vietnamese student. I have developed this **powerful DDoS testing tool** to help users perform load testing and understand network resilience better. This tool features a sleek, cyberpunk-themed GUI built with CustomTkinter, supports customizable HTTP methods, headers, parameters, and data, and allows you to specify the number of requests and concurrent threads for testing.
 
 I created this tool to provide an easy-to-use yet effective way to simulate traffic for educational and testing purposes. Feel free to explore, contribute, and use it responsibly.
+
 ![Chưa có tên](https://github.com/user-attachments/assets/26e63d68-62ab-46ce-b7c8-9b4cbcc416ae)# TOOL-DDOS-VIP
 This tool is a customizable DDoS testing application designed to simulate high traffic requests to target URLs for stress testing purposes. Built with a sleek Cyberpunk-themed GUI using CustomTkinter, it supports multiple HTTP methods (GET, POST, PUT, DELETE, HEAD) and flexible configurations for headers, parameters, and data payloads.
 
