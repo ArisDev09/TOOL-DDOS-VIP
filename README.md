@@ -15,4 +15,4 @@ Asynchronous request handling for efficient performance.
 
 ⚠️ Important: This tool is intended strictly for ethical testing and educational purposes. Unauthorized use against systems without permission is illegal and unethical.
 
-![Chưa có tên](https://github.com/user-attachments/assets/aa5ede0f-4004-4803-b17d-b95a82ad9fc0)
+
